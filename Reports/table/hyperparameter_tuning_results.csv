@@ -1,0 +1,5 @@
+Model,Best_CV_F1,Best_Parameters
+Logistic Regression,0.6000515604774134,"{'C': 0.1, 'solver': 'lbfgs'}"
+Decision Tree,0.5373765891068867,"{'max_depth': 3, 'min_samples_leaf': 1, 'min_samples_split': 2}"
+Random Forest,0.5820478279436075,"{'max_depth': 10, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 200}"
+SVM,0.6019428015747035,"{'C': 1, 'gamma': 'auto', 'kernel': 'rbf'}"
