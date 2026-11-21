@@ -1,0 +1,26 @@
+Feature,Mean_Absolute_SHAP
+num__waiting_days,0.08439872268449967
+num__previous_appointments,0.03302160642354709
+num__missed_previous_appointments,0.02424064431938663
+num__age,0.02143426113672045
+cat__blood_group_AB-,0.014540601391678119
+cat__department_Neurology,0.012791627543513122
+cat__diagnosis_Chest Pain,0.01074282996013246
+cat__diagnosis_Asthma,0.006604384168132086
+num__previous_admissions,0.00656553711917351
+cat__diagnosis_Fever,0.005759749798616754
+cat__department_Orthopedics,0.0057289874842567715
+cat__department_Cardiology,0.005364814429092837
+cat__gender_Female,0.005243327111731703
+cat__diagnosis_Kidney Infection,0.005051709621632282
+cat__diagnosis_Back Pain,0.004979703052550476
+cat__department_Radiology,0.004793659419184218
+cat__gender_Male,0.0046872240083899955
+cat__blood_group_B+,0.004468334733236966
+cat__diagnosis_Fracture,0.0041453619469504375
+cat__department_General Medicine,0.004137517256513535
+cat__blood_group_O-,0.0039811351863407556
+cat__diagnosis_Hypertension,0.003921171392061818
+cat__blood_group_B-,0.003728719167250665
+cat__diagnosis_Diabetes,0.0022411603466729805
+cat__department_Laboratory Services,0.0020363859671040066
